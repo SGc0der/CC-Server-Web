@@ -1,0 +1,40 @@
+                <div id="aaditya" class="col-md-6">
+                    <div data-toggle="modal" data-target="#shauryaS_screen"> <!--like smartphones in SMart-- togglers  stukle stule style-->
+                        <!--<h2 style="margin-left: 70px;">^NONE^</h2>-->
+                        <img class="img-responsive img-thumbnail shauryimg" style="border-radius: 120px;" src="IconicIcon.png">
+                        <h2>Aaditya Singh</h2>
+                        <div> <!--line-->
+
+
+
+
+
+                        </div>
+                        <p>-</p>
+                    </div>
+                </div>
+                      <span class="col-md-12">
+                <center>
+                <div id="siddhi" class="col-md-6">
+                    <div data-toggle="modal" data-target="#shauryaS_screen"> <!--like smartphones in SMart-- togglers  stukle stule style-->
+                        <!--putting a crown on top-->
+                        <img class="img-responsive img-thumbnail shauryimg" style="border-radius: 120px;" src="IconicIcon.png">
+                        <h2>Siddhi Marathe</h2>
+                        <div> <!--line-->
+
+                        </div>
+                        <p>-</p>
+                </div>
+
+                <div id="aaditya" class="col-md-6">
+                    <div data-toggle="modal" data-target="#shauryaS_screen"> <!--like smartphones in SMart-- togglers  stukle stule style-->
+                        <!--putting a crown on top-->
+                        <img class="img-responsive img-thumbnail shauryimg" style="border-radius: 120px;" src="IconicIcon.png">
+                        <h2>Aaditya Singh</h2>
+                        <div> <!--line-->
+
+                        </div>
+                        <p>-</p>
+                </div>
+            </center>
+            </span>
